@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @KarthikSwasaka
-- 👀 I’m interested in travelling
+- 👋 Hi, I’m @KarthikSwasaka - Data Scientist
+- 👀 I’m interested in travelling, Give me you data, promise, I'll tell your future.
 - 🌱 I’m currently learning at Bengaluru
 - 📫 How to reach me swasakakarthik@gmail.com
 
