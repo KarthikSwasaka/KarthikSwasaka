@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KarthikSwasaka - Data Scientist
+- 👋 Hi, I’m KarthikSwasaka - Data Scientist
 - 👀 Give me you data. promise, I'll tell your future.
-- 🌱 Currently learning at Bengaluru
+- 🌱 From Bengaluru
 - 📫 How to reach me - swasakakarthik@gmail.com
 
 <!---
