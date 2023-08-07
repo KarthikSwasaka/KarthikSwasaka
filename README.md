@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KarthikSwasaka - Data Scientist
-- 👀 Give me you data. promise, I'll tell your future.
+- 👀 M. Tech from BITS- Pilani.
 - 🌱 From Bengaluru
 - 📫 How to reach me - swasakakarthik@gmail.com
 
